@@ -1,0 +1,16 @@
+*.class
+.idea/*
+!.idea/codeStyles
+target/
+
+
+# docker-compose
+.env
+
+# kamon java agent
+**/native/
+
+sbt-cache/
+
+# log
+/log/
